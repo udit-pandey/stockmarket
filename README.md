@@ -3,7 +3,7 @@ Analysis of stock market prices in real-time to get insights and help make infor
 
 Real-time global equity data has been provided. The data contains the following information:
 
-symbol - id of the stock
+symbol - id of the stock <br />
 timestamp - time at which we are getting the data
 open - the price at which the particular stock opens in the time period
 high - highest price of the stock during the time period
